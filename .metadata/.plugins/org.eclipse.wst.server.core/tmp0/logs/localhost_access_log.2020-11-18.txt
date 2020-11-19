@@ -1,0 +1,17 @@
+127.0.0.1 - - [18/Nov/2020:18:07:15 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:18:07:49 +0530] "POST /bookmydoctor/user/signup HTTP/1.1" 200 105
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:18:23:15 +0530] "OPTIONS /bookmydoctor/user/signup HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:18:23:18 +0530] "POST /bookmydoctor/user/signup HTTP/1.1" 500 8071
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:18:32:12 +0530] "POST /bookmydoctor/user/signup HTTP/1.1" 500 8071
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:18:39:45 +0530] "POST /bookmydoctor/user/signup HTTP/1.1" 500 8073
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:18:39:45 +0530] "POST /bookmydoctor/user/signup HTTP/1.1" 500 8073
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:18:39:45 +0530] "POST /bookmydoctor/user/signup HTTP/1.1" 500 8073
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:18:39:45 +0530] "POST /bookmydoctor/user/signup HTTP/1.1" 500 8073
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:18:39:45 +0530] "POST /bookmydoctor/user/signup HTTP/1.1" 500 8073
+127.0.0.1 - - [18/Nov/2020:18:56:10 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:19:14:10 +0530] "OPTIONS /bookmydoctor/user/signup HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:19:16:44 +0530] "OPTIONS /bookmydoctor/user/signup HTTP/1.1" 200 -
+127.0.0.1 - - [18/Nov/2020:22:53:46 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:22:53:54 +0530] "GET /bookmydoctor/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:23:02:52 +0530] "OPTIONS /bookmydoctor/user/signup HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [18/Nov/2020:23:02:55 +0530] "POST /bookmydoctor/user/signup HTTP/1.1" 500 8071
